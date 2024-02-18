@@ -1,8 +1,5 @@
 package lab2;
 
-import java.util.ArrayList;
-import java.util.Hashtable;
-
 /**   Tx (Transaction)
  *    consisting of a list of transction inputs and
  *    a list of transaction outputs
